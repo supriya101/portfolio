@@ -1,0 +1,63 @@
+.cert .heading h1 {
+    font-size: 40px;
+  }
+  .cert .content {
+    max-width: 85%;
+    margin: auto;
+  }
+  .cert .box {
+    padding: 40px;
+  }
+  .cert hr {
+    margin: 30px 0 30px 0;
+    border: 1px solid #e3e9ed;
+    background-color: #e3e9ed;
+  }
+  .cert .rate .btn_shadow {
+    color: #ff014f;
+    padding: 15px 30px;
+    font-weight: bold;
+    transition: 0.5s;
+  }
+  .cert p {
+    font-size: 18px;
+    transition: 0.5s;
+  }
+  .cert .box {
+    margin-bottom: 40px;
+    position: relative;
+  }
+  .cert .btn_shadow:hover {
+    transform: translate(0);
+  }
+  .cert .box:hover .btn_shadow {
+    background: #ff3a75;
+    box-shadow: none;
+    color: white;
+  }
+  .cert .box:hover p {
+    color: white;
+  }
+  .cert .content-section {
+    position: relative;
+  }
+  .cert .left {
+    position: relative;
+  }
+  
+  .cert .box:hover.box:before {
+    background: #ff3a75;
+  }
+
+  .yearclr {
+    font-weight: 500;
+  }
+  @media (max-width: 768px) {
+    .cert .d_flex {
+      flex-direction: column;
+    }
+    .cert .left::after {
+      top: 14%;
+      height: 105vh;
+    }
+  }

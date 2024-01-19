@@ -1,0 +1,63 @@
+.features .box {
+    padding: 20px;
+}
+.features .box h2 {
+    margin: 20px 0 20px 0;
+    text-align: center;
+    font-size: 20px;
+
+}
+.features .box p {
+    word-spacing: 2px;
+    transition: 0.5s;
+}
+.features .box i{
+    font-size: 30px;
+    margin-top: 20px;
+    transition: 0.5s;
+    opacity: 0;
+}
+.features .box:hover p{
+    color: white;
+}
+.features .box:hover i{
+    color: white;
+    opacity: 1;
+}
+
+.btnn_shadow {
+    padding: 18px 25px;
+    border-radius: 6px;
+    transition: 0.3s all ease;
+    cursor: pointer;
+    color: #ff014f;
+    transition: 0.5s;
+  }
+  .btnn_shadow {
+    background: linear-gradient(145deg, #ffffff, #ffffff);
+    box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
+  }
+  .btnn_shadow:hover {
+    background: #ff014f;
+    color: white;
+    transform: translateY(-10px);
+  }
+
+.imgalignnn{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 80%;
+}
+
+.mmgrid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 35px;
+  }
+
+  .pag {
+    text-align: center;
+    font-weight: 400;
+  }
+
