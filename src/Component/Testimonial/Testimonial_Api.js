@@ -1,7 +1,7 @@
 const Testimonial_Api = [
   {
     id: 1,
-    image: "https://i.ibb.co/N26n86n/lacc.png",
+    image: "./images/courses/lacc.png",
     name: "Digital Marketing Specialist cum Web Designers",
     post: "London American City College, UAE",
     date: "April 2023 - April 2025",
