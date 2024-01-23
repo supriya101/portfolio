@@ -97,7 +97,7 @@
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     
     .hero .right_img img {
-        width: 351px;
+        width: 100%;
         right: 24px !important;
       }
     
@@ -122,8 +122,8 @@
       flex-direction: column-reverse;
     }
     .hero .right_img {
-      width: 96%;
-      height: 73vh;
+      width: 86%;
+      height: 59vh;
     }
 
     .hero .right_img img {

@@ -41,11 +41,11 @@ const Cards = (props) => {
               <img src={props.image} alt='' />
             </div>
             <div className='modal-text right'>
-              <span>Feature Design</span>
+              <span>Featured - Design</span>
 
-              <p>➥{props.desc}</p>
-              <p>➥{props.desc2}</p>
-              <p>➥{props.skills}</p>
+              <p>➥ {props.desc}</p>
+              <p>➥ {props.desc2}</p>
+              <p>➥ {props.skills}</p>
 
               <button className='close-modal btn_shadow' onClick={toggleModal}>
                 <i class='fas fa-times'></i>
