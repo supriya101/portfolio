@@ -7,10 +7,9 @@ const Card = (props) => {
         <div className='title_content d_flex'>
           <div className='title'>
             <h2>{props.title}</h2>
+            <span>{props.company}</span>
+            <br />
             <span>{props.year}</span>
-          </div>
-          <div className='rate'>
-            <button className='btn_shadow '>{props.rate}</button>
           </div>
         </div>
         <hr />

@@ -67,14 +67,37 @@
     width: 50%;
     text-align: center;
   }
+
+  
+ /* Mobile Devices */
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    
+    .contactcenter{
+    
+      width: auto;
+        }
+
+        .backg {
+          background-image: none !important;
+        }
+}
  
-  @media (max-width: 768px) {
-    .Contact .d_flex {
-      flex-direction: column;
-    }
-    .Contact .left,
-    .Contact .right {
-      width: 100%;
-      margin-top: 50px;
-    }
+ /* iPads, Tablets */
+ @media only screen and (min-width: 481px) and (max-width: 768px) {
+    
+  .Contact .d_flex {
+    flex-direction: column;
   }
+  .Contact .left,
+  .Contact .right {
+    width: 100%;
+    margin-top: 50px;
+  }
+  
+  .contactcenter {
+    width: 95%;
+  }
+}
+
+
+ 

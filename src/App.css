@@ -194,3 +194,20 @@ footer .icon i {
     width: 100%;
   }
 }
+
+ /* Large devices (laptops/desktops, 992px and up) */
+ @media only screen and (min-width: 320px) and (max-width: 480px) {
+    
+    .grid {
+      grid-template-columns: repeat(1, 1fr);
+  }
+
+  .legal {
+    display: block;
+  }
+
+  .heading h1 {
+    font-size: 21px;
+  }
+
+    }

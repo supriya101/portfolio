@@ -55,3 +55,38 @@
     grid-template-columns: repeat(5, 1fr);
     grid-gap: 35px;
   }
+
+    /* Mobile devices */
+
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    
+    .sssgrid {
+      grid-template-columns: repeat(1, 1fr);
+    }
+    .imgalignforskills {
+      width: 49% !important;
+  }
+    }
+
+
+    /* iPads, Tablets */
+    @media only screen and (min-width: 481px) and (max-width: 768px) {
+    
+      .sssgrid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .imgalignforskills {
+        width: 48% !important;
+    }
+     
+      }
+
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (max-width: 1024px) {
+    .imgalignforskills {
+        width: 70%;
+    }
+
+  
+  }

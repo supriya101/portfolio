@@ -25,13 +25,10 @@ const Header = () => {
               {/*<ul className='link f_flex uppercase {Mobile ? "nav-links-mobile" : "nav-links"} onClick={() => setMobile(false)}'>*/}
               <li>
                 <a href='#home'>home</a>
-              </li>
+              </li>     
               <li>
-                <a href='#features'>services</a>
-              </li>
-              <li>
-                <a href='#resume'>eduaction</a>
-              </li>
+                <a href='#about'>About</a>
+              </li>  
               <li>
                 <a href='#clients'>Experience</a>
               </li>
@@ -41,21 +38,11 @@ const Header = () => {
               <li>
                 <a href='#certifications'>Certifications</a>
               </li>
-              <li>
-                <a href='#skills'>Skills</a>
-              </li>
-              <li>
-                <a href='#tools'>Tools</a>
-              </li>
+             
               <li>
                 <a href='#blogs'>Blogs</a>
               </li>
-              <li>
-                <a href='#social'>Social</a>
-              </li>
-              <li>
-                <a href='#design'>Designs</a>
-              </li>
+              
               <li>
               <a href='#contact'><button className='home-btn'>Contact</button></a>
 

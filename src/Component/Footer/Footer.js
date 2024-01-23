@@ -67,10 +67,6 @@ const Footer = () => {
                   </button></a>
                   &nbsp;
 
-                  <a href='https://www.pinterest.com/sudivguide/' target='_blank'>
-                  <button className='btnnn_shadow'>
-                    <i class='fab fa-pinterest'></i>
-                  </button> </a>
                   
                 </div>
             </div>
@@ -79,16 +75,11 @@ const Footer = () => {
                 <h2>Quick Links</h2>
                 <ul>
                 <a href='#home'><li>Home</li></a>
-                    <a href='#features'><li>Services</li></a>
-                    <a href='#resume'><li>Education</li></a>
+                    <a href='#about'><li>About</li></a>
                     <a href='#clients'><li>Work Experience</li></a>
-                    <a href='#certifications'><li>Certifications</li></a>
-                    <a href='#skills'><li>Skiils</li></a>
-                    <a href='#tools'><li>Tools</li></a>
                     <a href='#projects'><li>Projects</li></a>
+                    <a href='#certifications'><li>Certifications</li></a>
                     <a href='#blogs'><li>Blogs</li></a>
-                    <a href='#social'><li>Social Media</li></a>
-                    <a href='#design'><li>Page Design</li></a>
                     <a href='#contact'><li>Contact</li></a>
 
                 </ul>

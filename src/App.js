@@ -5,7 +5,6 @@ import Home from "./Component/Hero/Home"
 import Features from "./Component/Features/Features"
 import Portfolio from "./Component/Portfolio/Portfolio"
 import Resume from "./Component/Resume/Resume"
-import Testimonial from "./Component/Testimonial/Testimonial"
 import Blog from "./Component/Blog/Blog"
 import Contact from "./Component/Contact/Contact"
 import Education from "./Component/Education/Education"
@@ -29,7 +28,7 @@ const App = () => {
   <br />
   <Features />
   <Education />
-  <Testimonial />
+  <Resume />
   <Portfolio />
   <Certificate />
   <Skiils />

@@ -27,47 +27,55 @@ const Home = () => {
 <p>If you are seeking a Website Designer, SEO Specialist, Digital Marketing Executive, or Freelancer, I am confident in my ability to meet and exceed your expectations. 
 </p>
             </div>
+            <br />
+            <a href='#contact'><button className='home-btn'>Hire Me</button></a>
 
             <div className='hero_btn d_flex'>
               <div className='col_1'>
                 <h4>FIND ME ON</h4>
-                <div className='button'>
-                <a href='https://www.facebook.com/supriyasudir5' target='_blank'>
-                  <button className='btn_shadoww'>
-                    <i class='fab fa-facebook-f'></i>
-                  </button></a>
-                  <a href='https://www.instagram.com/aashisudir/' target='_blank'>
-                  <button className='btn_shadoww'>
-                    <i class='fab fa-instagram'></i>
-                  </button> </a>
-                  <a href='https://www.linkedin.com/in/supriya-sudir-a494b3115/' target='_blank'>
-                  <button className='btn_shadoww'>
-                    <i class='fab fa-linkedin-in'></i>
-                  </button> </a>
-                  <a href='https://www.youtube.com/@AashiSupriyaSudir' target='_blank'>
-                  <button className='btn_shadoww'>
-                    <i class='fab fa-youtube'></i>
-                  </button> </a>
-                  <a href='https://twitter.com/SupriyaSudir101' target='_blank'>
-                  <button className='btn_shadoww'>
-                    <i class='fab fa-twitter'></i>
-                  </button></a>
-                  <a href='https://www.pinterest.com/sudivguide/' target='_blank'>
-                  <button className='btn_shadoww'>
-                    <i class='fab fa-pinterest'></i>
-                  </button> </a>
-                </div>
+
               </div>
               
-              
             </div>
+            <div>
+                <a href='https://www.facebook.com/supriyasudir5' target='_blank'>
+                  <button className='btnnn_shadow'>
+                    <i class='fab fa-facebook-f'></i>
+                  </button></a> 
+                  &nbsp;
+
+                  <a href='https://www.instagram.com/aashisudir/' target='_blank'>
+                  <button className='btnnn_shadow'>
+                    <i class='fab fa-instagram'></i>
+                  </button> </a>
+                  &nbsp;
+
+                  
+                  <a href='https://www.linkedin.com/in/supriya-sudir-a494b3115/' target='_blank'>
+                  <button className='btnnn_shadow'>
+                    <i class='fab fa-linkedin-in'></i>
+                  </button> </a>
+                  &nbsp;
+
+                  <a href='https://www.youtube.com/@AashiSupriyaSudir' target='_blank'>
+                  <button className='btnnn_shadow'>
+                    <i class='fab fa-youtube'></i>
+                  </button> </a>
+                  &nbsp;
+
+                  <a href='https://twitter.com/SupriyaSudir101' target='_blank'>
+                  <button className='btnnn_shadow'> 
+                    <i class='fab fa-twitter'></i>
+                    
+                  </button></a>
+                  &nbsp;
+
+                  
+                </div>
             <br />
 
-            
 
-          {/*<div className='img'>
-            <img src={hire} alt='' />
-  </div> */}
+
           
           </div>
           <div className='right'>

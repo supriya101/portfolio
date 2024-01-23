@@ -69,6 +69,16 @@
   .educ .box:hover.box:before {
     background: #ff3a75;
   }
+
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    
+    .educ .box {
+      padding: 24px;
+  }
+    }
+
+
+
   @media (max-width: 768px) {
     .educ .d_flex {
       flex-direction: column;

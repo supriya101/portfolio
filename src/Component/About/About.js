@@ -7,7 +7,7 @@ import e from "../pic/e.png"
 const About = () => {
   return (
     <>
-      <section className='aboutpage' id='home'>
+      <section className='aboutpage' id='about'>
       
      
       <div style={{
@@ -40,8 +40,16 @@ const About = () => {
             If you are seeking a Website Designer, SEO Specialist, Digital Marketing Executive, or Freelancer, I am confident in my ability to meet and exceed your expectations. 
             </p>   
             <br />
+            <div className='aligncv'>
+            <a href='Supriya Sudhir Resume.pdf' download='Supriya Sudhir Resume.pdf'>
             <button className='about-btn'>Download CV</button>
-   
+            </a>
+            &nbsp; &nbsp; &nbsp; &nbsp;
+
+            <a href='Supriya Sudhir Portfolio.pdf' download='Supriya Sudhir Portfolio.pdf'>
+            <button className='about-btn'>Download Portfolio</button>
+            </a>
+            </div>
             </div>
             </div>
 

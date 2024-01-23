@@ -12,7 +12,7 @@ const Education_Api = [
       category: "experience",
       year: "Bangalore University (2016 - 2019) ",
       title: "Master of Computer Applications (MCA)",
-      desc: "Jyoti Nivas College Autonomous, Bangalore",
+      desc: "Jyoti Nivas College Autonomous",
       rate: "78.5%",
     },
   ]

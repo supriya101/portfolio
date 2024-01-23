@@ -53,7 +53,7 @@ const Contact = () => {
             <div>
               
               <div className='box box_shodow'>
-              <div style={{
+              <div className='backg' style={{
                 backgroundRepeat: 'no-repeat',
             backgroundImage: `url(${c})`,
 

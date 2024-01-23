@@ -143,22 +143,50 @@ body.active-modal {
   text-transform: capitalize;
   color: #ff014f;
 }
-/*------------popup--------*/
 
-@media (max-width: 768px) {
-  .modal,
-  .overlay {
-    overflow: scroll;
+/* Mobile Devices */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    
+  .mgrid {
+    grid-template-columns: repeat(1, 1fr);
   }
 
-  .modal .modal-img {
-    margin: 50px 0 50px 0;
+  .modal-text h1{
+    font-size: 17px;
   }
-  .modal-content {
-    flex-direction: column;
-  }
-  .modal .right,
-  .modal .left {
-    padding: 0;
-  }
+.modal-text p {
+  font-size: 15px;
 }
+.modal-text button {
+  margin-right: 0px;
+}
+
+  }
+
+
+    /* iPads, Tablets */
+    @media only screen and (min-width: 481px) and (max-width: 768px) {
+    
+      .mgrid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .modal,
+      .overlay {
+        overflow: scroll;
+      }
+    
+      .modal .modal-img {
+        margin: 50px 0 50px 0;
+      }
+      .modal-content {
+        flex-direction: column;
+      }
+      .modal .right,
+      .modal .left {
+        padding: 0;
+      }
+    
+      }
+
+

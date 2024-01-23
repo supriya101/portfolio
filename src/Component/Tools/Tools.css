@@ -57,3 +57,23 @@
     grid-gap: 35px;
     width: 100%;
   }
+
+   /* Mobile Devices */
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    
+    .ttgrid {
+      grid-template-columns: repeat(1, 1fr);
+    }
+    .imgalignfortools {
+      width: 49%;
+    }
+    }
+
+     /* iPads, Tablets */
+    @media only screen and (min-width: 481px) and (max-width: 768px) {
+    
+      .ttgrid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    
+      }

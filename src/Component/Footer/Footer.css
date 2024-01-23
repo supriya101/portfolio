@@ -9,6 +9,7 @@
   }
   .btnnn_shadow {
     background: linear-gradient(145deg, #e2e8ec, #ffffff);
+    color: #ff014f;
   }
   .btnnn_shadow:hover {
     background: #ff014f;

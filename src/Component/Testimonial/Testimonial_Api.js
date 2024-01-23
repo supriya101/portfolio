@@ -1,7 +1,7 @@
 const Testimonial_Api = [
   {
     id: 1,
-    image: "https://i.ibb.co/N26n86n/lacc.png",
+    image: "../images/lacc.png",
     name: "Digital Marketing Specialist cum Web Designers",
     post: "London American City College, UAE",
     date: "April 2023 - April 2025",
@@ -11,7 +11,7 @@ const Testimonial_Api = [
   },
     {
       id: 2,
-      image: "images/courses/image-12.png",
+      image: "../images/image-12.png",
       name: "SEO Associate",
       post: "Firstcry.Com, Pune",
       date: "2 Years and 3 Months | Dec 2020 - March 2023",
@@ -21,7 +21,7 @@ const Testimonial_Api = [
     },
     {
       id: 3,
-      image: "images/courses/image-13.png",
+      image: "../images/image-13.png",
       name: "Digital Marketing Intern",
       post: "Clariwell Global Services Institute, Pune",
       date: "6 Months | June 2020 - Nov 2020",
@@ -31,7 +31,7 @@ const Testimonial_Api = [
     },
     {
       id: 4,
-      image: "images/courses/rectangle-79.png",
+      image: "../images/rectangle-79.png",
       name: "UI Design For KONFHUB Website",
       post: "CodeOps Technologies LLP, Bangalore",
       date: "8 Months | Oct 2019 - MAY 2020",
