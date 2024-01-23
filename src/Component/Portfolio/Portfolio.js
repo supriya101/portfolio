@@ -1,6 +1,6 @@
 import React from "react"
 import "./Portfolio.css"
-import Card from "./Card"
+import Cards from "./Cards"
 import Portfolio_data from "./Portfolio_data"
 import d from "../pic/d.png"
 
@@ -22,7 +22,7 @@ const Portfolio = () => {
 
           <div className='content mgrid'>
             {Portfolio_data.map((value, index) => {
-              return <Card key={index} image={value.image} category={value.category} totalLike={value.totalLike} title={value.title} desc={value.desc} desc2={value.desc2} skills={value.skills} link={value.link} />
+              return <Cards key={index} image={value.image} category={value.category} totalLike={value.totalLike} title={value.title} desc={value.desc} desc2={value.desc2} skills={value.skills} link={value.link} />
             })}
 
             {/*<div className='box btn_shadow '>

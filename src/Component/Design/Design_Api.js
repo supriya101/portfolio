@@ -20,7 +20,7 @@ const data = [
   {
       id: 4,
       image: "images/d-1.png",
-      image2: "../images/courses/d-2.png",
+      image2: "images/d-2.png",
       title: "Konfhub UI Design (Figma)",
       link:"https://www.figma.com/file/6Y4QQ2n8XpQWuylXFF0wag/KONFHUB-SMS-DESIGN?type=design&mode=design&t=B1okgqp8VCj6xcjJ-1"
     },
