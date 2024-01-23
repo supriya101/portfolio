@@ -2,6 +2,7 @@ const data = [
     {
       id: 1,
       image: "../images/image-2.png",
+      image: "../images/image-2.png",
       title: "Youtube",
       desc: "Aashi Supriya Sudhir",
       link: "https://www.youtube.com/@AashiSupriyaSudir",
