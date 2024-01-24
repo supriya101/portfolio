@@ -27,7 +27,6 @@ const Card = (props) => {
         <div className='title'>
           <h2 onClick={toggleModal}>{props.title_one}</h2>
           <a href='' className='arrow' onClick={toggleModal}>
-            <i class='fas fa-arrow-right'></i>
           </a>
         </div>
       </div>

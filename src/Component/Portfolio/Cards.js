@@ -26,9 +26,7 @@ const Cards = (props) => {
         </div>
         <div className='title'>
           <h2 onClick={toggleModal}>{props.title}</h2>
-          <a href='' className='arrow' onClick={toggleModal}>
-            <i class='fas fa-arrow-right'></i>
-          </a>
+          
         </div>
       </div>
 
@@ -41,7 +39,7 @@ const Cards = (props) => {
               <img src={props.image} alt='' />
             </div>
             <div className='modal-text right'>
-              <span>Featured - Design</span>
+             <h1> <span>Featured - Design</span> </h1>
 
               <p>➥ {props.desc}</p>
               <p>➥ {props.desc2}</p>
@@ -55,7 +53,7 @@ const Cards = (props) => {
               <div className='contact mtop'>
                 <div className='left'>
               <a href={props.link} target='_blank'>
-              <button className='home-btnn'> VIEW PROJECT
+              <button className='home-btnn'> LIVE DEMO
               <i class='fas fa-chevron-right'></i>
               </button>
               </a>

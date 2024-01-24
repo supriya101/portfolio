@@ -16,6 +16,7 @@ import Design from "./Component/Design/Design"
 import Footer from "./Component/Footer/Footer"
 import About from "./Component/About/About"
 import Profile from "./Component/Profile/Profile"
+import Freelancer from "./Component/Freelancer/Freelancer"
 
 
 const App = () => {
@@ -29,6 +30,7 @@ const App = () => {
   <Features />
   <Education />
   <Resume />
+  <Freelancer />
   <Portfolio />
   <Certificate />
   <Skiils />

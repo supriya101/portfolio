@@ -28,7 +28,7 @@ const Home = () => {
 </p>
             </div>
             <br />
-            <a href='#contact'><button className='home-btn'>Hire Me</button></a>
+            <a href='#contact'><button className='home-btn'>Hire Now</button></a>
 
             <div className='hero_btn d_flex'>
               <div className='col_1'>
