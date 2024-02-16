@@ -124,7 +124,7 @@ const Footer = () => {
                     
                     <div className='icon'>
                         <i className='fas fa-location-arrow'></i>
-                        <label htmlFor=''>Location: Al, Karama Dubai, UAE</label>
+                        <label htmlFor=''>Location: Dubai, UAE</label>
                     </div>
                     <div className='icon'>
                         <i className='fa fa-phone'></i>
