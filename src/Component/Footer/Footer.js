@@ -46,7 +46,7 @@ const Footer = () => {
                     <i class='fab fa-facebook-f'></i>
                   </button></a> 
                   &nbsp;
-                  <a href='https://www.instagram.com/aashisudir/' target='_blank'>
+                  <a href='https://www.instagram.com/aashi__16__/' target='_blank'>
                   <button className='btnnn_shadow'>
                     <i class='fab fa-instagram'></i>
                   </button> </a>
