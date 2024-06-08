@@ -1,6 +1,6 @@
 .features .box {
     padding: 30px;
-    background-image: url('/my-app/src/img/background1.png');
+    background-image: url('img/background1.png');
 }
 .features .box h2 {
     margin: 20px 0 20px 0;
