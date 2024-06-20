@@ -6,7 +6,7 @@ import "./Features.css"
 
 function Features() {
   return (
-    <div className='app-container'>
+    <>
     <section className='features top' id='features'>
   
         <div className='container'>
@@ -37,7 +37,7 @@ function Features() {
     </section>
     
     
-    </div>
+    </>
   )
 }
 

@@ -5,7 +5,7 @@ import Card from "./Card"
 
 const Resume = () => {
   return (
-    <div className='app-container'>
+    <>
       <section className='Resume' id='resume'>
         <div className='container top'>
           <div className='heading text-center'>
@@ -45,7 +45,7 @@ const Resume = () => {
           </div>
         </div>
       </section>
-    </div>
+    </>
   )
 }
 

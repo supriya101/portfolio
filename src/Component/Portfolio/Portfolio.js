@@ -7,7 +7,7 @@ import d from "../pic/d.png"
 
 const Portfolio = () => {
   return (
-    <div className='app-container'>
+    <>
       <section className='Portfolio top' id='projects'>
       <div style={{
                 backgroundRepeat: 'no-repeat',
@@ -46,7 +46,7 @@ const Portfolio = () => {
         </div>
         </div>
       </section>
-    </div>
+    </>
   )
 }
 
