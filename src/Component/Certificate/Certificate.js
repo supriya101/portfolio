@@ -16,7 +16,7 @@ const Certificate = () => {
         <div className='container top'>
           <div className='heading text-center'>
           <h4>My Courses and Certifications</h4>
-            <h1>COURCES/CERTIFICATIONS</h1>
+            <h1>COURSES/CERTIFICATIONS</h1>
           </div>
 
           <div className='content-section mtop d_flex'>

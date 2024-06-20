@@ -1,24 +1,18 @@
 const data = [
   {
     id: 1,
-    image: "images/d-999.png",
-    title: "LACC - Facebook & Instagram Posters (Canva)",
-    link: "https://www.facebook.com/laccuae"
+    image: "images/d-9887.png",
+    title: "All Facebook & Instagram Posters, Brochures & Flyers Designs",
+    link: "https://supriya101.github.io/gallery/"
   },
   {
     id: 2,
-    image: "images/d-99.png",
-    title: "LACC - Facebook & Instagram Posters (Canva)",
-    link: "https://www.facebook.com/laccuae"
-  },
-  {
-    id: 3,
     image: "images/d-3.png",
     title: "Konfhub UI Design (Figma)",
     link: "https://www.figma.com/file/9tglacFvbLmhP7DxSPWtOQ/KONFHUB-LANDING-PAGE?type=design&node-id=0%3A1&mode=design&t=B1okgqp8VCj6xcjJ-1"
   },
   {
-      id: 4,
+      id: 2,
       image: "images/d-1.png",
       image2: "images/d-2.png",
       title: "Konfhub UI Design (Figma)",
