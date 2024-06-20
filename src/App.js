@@ -22,6 +22,7 @@ import Freelancer from "./Component/Freelancer/Freelancer"
 const App = () => {
   return (
   <>
+  
   <Header />
   <Home />
   <br />
