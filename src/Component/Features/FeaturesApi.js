@@ -17,13 +17,13 @@ const data = [
       id: 3,
       image: "images/seo.png",
       title: "SEO/SMO (Facebook and Instagram Ads)",
-      desc: "As an SEO and SMO specialist, I optimize content for Search Engines, Rank Blogs and run Facebook and Instagram Ads for online visibility, engagement, and business growth.",
+      desc: "As an SEO and SMO specialist, I optimize content for search engines & rank blogs and run Facebook and Instagram Ads for online visibility, engagement, and business growth.",
     },
     {
       id: 4,
       image: "images/infographic.png",
       title: "Basic Logo Design Skills, Infographics, Photo/Video Editing",
-      desc: "I design simple logo,Infographics and posters for businesses using Canva and great with Photo and Video Editing.",
+      desc: "I design simple logos, infographics and posters for businesses using Canva and great with photo and video editing.",
     },
   ]
   export default data

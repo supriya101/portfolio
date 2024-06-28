@@ -10,7 +10,7 @@ const Resume = () => {
         <div className='container top'>
           <div className='heading text-center'>
             <h4>6+ YEARS OF EXPERIENCE</h4>
-            <h1>My Resume</h1>
+            <h1>My Total Work Experience</h1>
           </div>
 
           <div className='content-section mtop d_flex'>

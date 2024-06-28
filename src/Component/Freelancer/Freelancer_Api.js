@@ -21,7 +21,7 @@ const Resume_Api = [
         year: "March 2022 - Oct 2022",
         company: "CPI Mallikarjun School, Goa",
         title: "Website Developer and SMO",
-        desc: "Created the UI design for the CPI Mallikarjun School website, focusing on creating an engaging and user-friendly interface for the school's online presence. Designed and developed a static website with a focus on user-friendliness, integrating modern design ideas. Developed a visually appealing and effective website by carefully collaborating with teachers to understand their objectives and vision.",
+        desc: "Created the UI design for the CPI Mallikarjun School website, focusing on creating an engaging and user-friendly interface for the school's online presence. Used best SEO techniques to increase visibility in search results.Developed and managed social media content for the CPImallikarjun website.",
       },
    
   ]

@@ -5,7 +5,7 @@ const Resume_Api = [
       year: "April 2023 - April 2025",
       company: "London American City College, UAE",
       title: "Digital Marketing Specialist cum Web Designers",
-      desc: "The website lacc.ae, lacc.me, & other lacc websites have been redesigned to be more user-friendly on all platforms. Online advertising Google Ads & Facebook campaigns are managed & generated quality leads. Created engaging Content, Infographics, & Reels for Social Media platforms for Facebook, Instagram, LinkedIn, YouTube & Twitter to promote the college's brand. Using keyword research, on-page, & off-page SEO strategies are optimized for the college's website to improve visibility & organic traffic on search engines.",
+      desc: "The website lacc.ae, lacc.me, & other lacc websites have been redesigned to be more user-friendly on all platforms. Online advertising Google Ads & Facebook campaigns are managed & generated quality leads. Created engaging content, infographics, & reels for social media platforms for Facebook, Instagram, LinkedIn, YouTube & Twitter to promote the college's brand. Using keyword research, on-page, & off-page SEO strategies are optimized for the college's website to improve visibility & organic traffic on search engines.",
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ const Resume_Api = [
       year: "6 Months | June 2020 - Nov 2020",
       company: "Clariwell Global Services Institute, Pune",
       title: "Digital Marketing Intern",
-      desc: "Worked with the SEO team on projects involving On-Page and Off-Page Optimization for Client Websites. Worked with the Social Media Optimisation by posting on Client Website. Extra Skills learnt Email Marketing, Google Analytics, Keyword Research, Keyword Optimisation & Link Building.",
+      desc: "Worked with the SEO team on projects involving On-Page and Off-Page optimization for client websites. Worked with social media optimisation by posting posters on client websites. Extra skills learned: Email Marketing, Google Analytics, Keyword Research, Keyword Optimisation & Link Building.",
     },
     {
       id: 4,

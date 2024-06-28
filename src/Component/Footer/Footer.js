@@ -76,7 +76,7 @@ const Footer = () => {
                 <ul>
                 <a href='#home'><li>Home</li></a>
                     <a href='#about'><li>About</li></a>
-                    <a href='#clients'><li>Work Experience</li></a>
+                    <a href='#resume'><li>Work Experience</li></a>
                     <a href='#projects'><li>Projects</li></a>
                     <a href='#certifications'><li>Certifications</li></a>
                     <a href='#blogs'><li>Blogs</li></a>
@@ -128,12 +128,12 @@ const Footer = () => {
                     </div>
                     <div className='icon'>
                         <i className='fa fa-phone'></i>
-                        <label htmlFor=''>Phone: +971 552099764</label>
+                        <a href="tel:+971552099764" style={{color:'#ffffff'}}>Phone: +971 552099764</a>
                     </div>
 
                     <div className='icon'>
                         <i className='fa fa-envelope'></i>
-                        <label htmlFor='/'>Email: supriyasudir@gmail.com</label>
+                        <a href="mailto:supriyasudir@gmail.com" style={{color:'#ffffff'}}>Email: supriyasudir@gmail.com</a>
                     </div>
 
                     </div>

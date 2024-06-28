@@ -17,7 +17,7 @@ function Design() {
         <div className='container'>
         <div className='heading text-center '>
             <h4>CLIENT DESIGN PROJECTS</h4>
-            <h1>My Page Design For Clients</h1>
+            <h1>Highlights of the Client Designs</h1>
           </div>
         <div className='content mmsdgrid'>
             {data.map((val,index) => {

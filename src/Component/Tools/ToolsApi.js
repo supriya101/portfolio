@@ -3,7 +3,7 @@ const data = [
       id: 1,
       image: "images/Figma.png",
       title: "Figma",
-      desc: "Experiance in designing UI/UX design, vector editing for client website.",
+      desc: "Experience in designing UI/UX design, and vector editing for client websites.",
     },
     {
       id: 2,
@@ -14,8 +14,8 @@ const data = [
     {
       id: 3,
       image: "images/insh.png",
-      title: "InShot",
-      desc: "I use InShot for Video editing, transitions, filters, music integration, speed adjustments, text overlays, effects and mobile-friendly content creation  based on the requirements of my clients.",
+      title: "InShot and VN",
+      desc: "I use both apps for video editing, transitions, filters, music integration, speed adjustments, text overlays, effects and mobile-friendly content creation  based on the requirements of my clients.",
     },
     {
       id: 4,
@@ -27,7 +27,7 @@ const data = [
       id: 5,
       image: "images/semrush.png",
       title: "SemRush",
-      desc: "I use SemRush for SEO analysis, keyword research, competitors research , backlink auditing, on-page optimization, content strategy, reporting, and effective digital marketing insights.",
+      desc: "I use SemRush for SEO analysis, keyword research, competitor research, backlink auditing, on-page optimization, content strategy, reporting, and effective digital marketing insights.",
     },
    
   ]

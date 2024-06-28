@@ -21,7 +21,7 @@ const data = [
     id: 4,
     image: "images/smo.png",
     title: "SMO",
-    desc: "Creates engaging content, manages platforms effectively, and maximizes brand visibility through strategic social media tactics.",
+    desc: "Creates interesting content and posters, efficiently handles all platforms, and uses smart social media strategies to increase brand visibility.",
   },
   {
     id: 5,
@@ -39,13 +39,13 @@ const data = [
     id: 7,
     image: "images/Ui.png",
     title: "UI Design",
-    desc: "Developing Responsive UI Design from Initial Design to Final Design Stage using HTML & CSS.",
+    desc: "Developing responsive UI design from initial design to final design stage using HTML & CSS.",
   },
     {
       id: 8,
       image: "images/infographic.png",
       title: "Infographic ",
-      desc: "Creating an visually appealing and informative images that are engaging for effective understanding and communication.",
+      desc: "Creating visually appealing and informative images that are engaging for effective understanding and communication.",
     },
     {
       id: 9,
@@ -57,7 +57,7 @@ const data = [
         id: 10,
         image: "images/photoed.png",
         title: "Video & Photo Editing",
-        desc: "Experience in Photo and Video Editing using Lightroom, Snapseed and Inshot Apps.",
+        desc: "Experience in photo and video editing using Lightroom, Snapseed, VN and Inshot Apps.",
       },
      
   ]
