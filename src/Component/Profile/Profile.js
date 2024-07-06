@@ -17,7 +17,7 @@ function Profile() {
         <div className='container'>
         <div className='heading text-center '>
             <h4>My Personal Bloging Site and Other Data</h4>
-            <h1> Personal Bloging Site</h1>
+            <h1> Performance on Google Site</h1>
           </div>
         <div className='content mmgrid'>
             {data.map((val,index) => {

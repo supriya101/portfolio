@@ -7,10 +7,10 @@ const data = [
     },
     {
       id: 2,
-      image: "images/sudivguidef.png",
-      title: "Sudivguide - Facebook Page",
-      desc: "SUDIVEGUIDE is a portal where we provide essays, GK questions, words for kids, maths, and rhymes for Class 1, 2 & 3 Students. We have come up with a unique way of writing for students that will be easier for them to understand and grasp.",
-      link: "https://www.facebook.com/sudivguide/",
+      image: "images/sudivguidef.jpg",
+      title: "lacc.me - Google Ads Performance",
+      desc: "Run an advertisement on Google for students looking for BBA and MBA degrees and it is ranking in 3rd position.",
+      link: "https://lacc.me/",
     },
     {
       id: 3,
