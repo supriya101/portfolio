@@ -2,7 +2,7 @@ const Resume_Api = [
     {
       id: 1,
       category: "wrkexp",
-      year: "April 2023 - April 2025",
+      year: "April 2023 - Aug 2024",
       company: "London American City College, UAE",
       title: "Digital Marketing Specialist cum Web Designers",
       desc: "The website lacc.ae, lacc.me, & other lacc websites have been redesigned to be more user-friendly on all platforms. Online advertising Google Ads & Facebook campaigns are managed & generated quality leads. Created engaging content, infographics, & reels for social media platforms for Facebook, Instagram, LinkedIn, YouTube & Twitter to promote the college's brand. Using keyword research, on-page, & off-page SEO strategies are optimized for the college's website to improve visibility & organic traffic on search engines.",

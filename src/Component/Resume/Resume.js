@@ -16,7 +16,7 @@ const Resume = () => {
           <div className='content-section mtop d_flex'>
             <div className='left'>
               <div className='heading'>
-                <h4>Dec 2020 - April 2025</h4>
+                <h4>Dec 2020 - Aug 2024</h4>
                 <h1>Work Experience</h1>
               </div>
 
