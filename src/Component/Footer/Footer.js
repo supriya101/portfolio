@@ -38,7 +38,7 @@ const Footer = () => {
         <div className='container grid'>
             <div className='box'>
             <img src={plogo} alt='' />
-            <p>Experienced Freelancer with expertise in UI design, SEO, Digital Marketing, and Lead Generation. With over 4 years of experience, I create visually appealing websites, implement SEO strategies, and maximize brand visibility using social media. I aim to provide high-quality solutions for clients.</p>
+            <p>I'm an experienced Digital Marketing Specialist with strong skills in WordPress development, SEO, social media optimization, and lead generation through Google Ads and other platforms. With over 5 years of experience, including 2 years in the UAE, I've refined my ability to create user-friendly websites and grow organic traffic.</p>
                <br />
                 <div>
                 <a href='https://www.facebook.com/supriyasudir5' target='_blank'>
@@ -119,7 +119,7 @@ const Footer = () => {
 
                     <div className='box'>
                         <h2>Get in Touch</h2>
-                        <p>If you are seeking a Website Designer, SEO Specialist, Digital Marketing Executive, or Freelancer, I am confident in my ability to meet and exceed your expectations. </p>
+                        <p>If you are looking for a Wordpress Developer, SEO Specialist, Social Media Optimizer, or Google Ads & Social Media Leads Generator. I am confident in my ability to meet and exceed your expectations.</p>
 
                     
                     <div className='icon'>

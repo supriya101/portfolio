@@ -61,8 +61,8 @@ const Contact = () => {
          
                 <div className='details'>
                   <h1>Supriya Sudhir</h1>
-                  <p className='det'>Professional Freelancer & UI Designer</p> <br />
-                  <p>I am available for freelance work. Connect with me via email or call.</p> <br />
+                  <p className='det'>Digital Marketing Specialist</p> <br />
+                  <p>I am available for work. Connect with me via email or call.</p> <br />
                   <a href='tel:+971 552099764'><span>Phone: </span><p>+971 552099764</p> </a><br />
                  <a href='mailto:supriyasudir@gmail.com'><span>Email: </span><p>supriyasudir@gmail.com</p> </a> <br />
                  <span>Address:</span>  <p> Dubai, UAE</p> <br />

@@ -17,14 +17,14 @@ const Home = () => {
             <h3><span>Hello, I’m Supriya Sudhir</span></h3>
             <br />
             <h2>
-            Professional Freelancer 
-            <br /> & UI Designer
+            Digital Marketing Specialist 
+            <br />
             </h2>
            
             <div className='hero_btn'>
            
 
-<p>If you are seeking a Website Designer, SEO Specialist, Digital Marketing Executive, or Freelancer, I am confident in my ability to meet and exceed your expectations. 
+<p>If you are looking for a Wordpress Developer, SEO Specialist, Social Media Optimizer, or Google Ads & Social Media Leads Generator. I am confident in my ability to meet and exceed your expectations. 
 </p>
             </div>
             <br />

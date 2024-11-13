@@ -30,14 +30,12 @@ const About = () => {
           <div className='right'> 
           <div className='headings'>
           <h3>ABOUT ME</h3>
-          <h4>Freelancer & UI Designer</h4>
-            <p>I am an experienced Freelancer with a strong knowledge of UI design, SEO, Digital Marketing, and Lead Generation. </p>
-            <p>With more than 4 years  of experience, I have improved my skills in creating visually appealing and user-friendly websites. 
-            I am skilled  at implementing effective SEO strategies that enhance online visibility and generate organic traffic.
-            I have a strong background in digital marketing for various aspects and am skilled at using social media channels to maximize brand visibility. </p> 
+          <h4>Digital Marketing Specialist & Wordpress Developer</h4>
+            <p> I’m an experienced Digital Marketer Specialist with a strong knowledge of WordPress development, SEO, Social Media Optimization, Google Ads and other social media platform lead generators.</p>
+            <p> With over 5 years of experience in digital marketing, including 2 years in the UAE, I’ve improved my skills in creating attractive, user-friendly websites and boost website traffic organically.  </p>
             
-            <p>As a professional, my goal is to provide clients with high-quality solutions which help their goals. 
-            If you are seeking a Website Designer, SEO Specialist, Digital Marketing Executive, or Freelancer, I am confident in my ability to meet and exceed your expectations. 
+            <p> 
+            If you are looking a Wordpress Developer, SEO Specialist, Social Media Optimizer, or Google Ads & Social Media Leads Generator, I am confident in my ability to meet and exceed your expectations. 
             </p>   
             <br />
             <div className='aligncv'>
