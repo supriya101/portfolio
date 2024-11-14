@@ -61,11 +61,15 @@
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     
     .sssgrid {
-      grid-template-columns: repeat(1, 1fr);
+      grid-template-columns: repeat(2, 1fr);
     }
     .imgalignforskills {
       width: 49% !important;
   }
+
+  #skills .box {
+    padding: 0px;
+}
     }
 
 
