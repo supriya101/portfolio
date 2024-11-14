@@ -6,7 +6,6 @@ const Card = (props) => {
         <div className='box btnn_shadow'>
                 <img src={props.image} alt="" className='imgalignforskills' />
                 <h2>{props.title}</h2>
-                <p>{props.desc}</p>
                 
                 
             </div>
