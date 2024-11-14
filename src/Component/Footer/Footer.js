@@ -41,6 +41,11 @@ const Footer = () => {
             <p>I'm an experienced Digital Marketing Specialist with strong skills in WordPress development, SEO, social media optimization, and lead generation through Google Ads and other platforms. With over 5 years of experience, including 2 years in the UAE, I've refined my ability to create user-friendly websites and grow organic traffic.</p>
                <br />
                 <div>
+                <a href='https://wa.me/+971552099764' target='_blank'>
+                  <button className='btnnn_shadow'>
+                    <i class='fab fa-whatsapp'></i>
+                  </button></a> 
+                  &nbsp;
                 <a href='https://www.facebook.com/supriyasudir5' target='_blank'>
                   <button className='btnnn_shadow'>
                     <i class='fab fa-facebook-f'></i>
@@ -60,11 +65,7 @@ const Footer = () => {
                   <button className='btnnn_shadow'>
                     <i class='fab fa-youtube'></i>
                   </button> </a>
-                  <a href='https://twitter.com/SupriyaSudir101' target='_blank'>
-                  <button className='btnnn_shadow'> 
-                    <i class='fab fa-twitter'></i>
-                    
-                  </button></a>
+                  
                   &nbsp;
 
                   
