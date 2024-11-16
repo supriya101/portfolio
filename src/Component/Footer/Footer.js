@@ -38,7 +38,7 @@ const Footer = () => {
         <div className='container grid'>
             <div className='box'>
             <img src={plogo} alt='' />
-            <p>I'm an experienced Digital Marketing Specialist with strong skills in WordPress development, SEO, social media optimization, and lead generation through Google Ads and other platforms. With over 5 years of experience, including 2 years in the UAE, I've refined my ability to create user-friendly websites and grow organic traffic.</p>
+            <p>I'm an experienced Digital Marketing Specialist with strong skills in WordPress development, SEO, social media optimization, and lead generation through Google Ads and other platforms. With over 5+ years of experience, I've refined my ability to create user-friendly websites and grow organic traffic.</p>
                <br />
                 <div>
                 <a href='https://wa.me/+971552099764' target='_blank'>
