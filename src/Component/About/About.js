@@ -39,7 +39,7 @@ const About = () => {
             </p>   
             <br />
             <div className='aligncv'>
-            <a href='Supriya Sudhir Resume.pdf' download='Supriya Sudhir Resume.pdf'>
+            <a href='Supriya Sudhir - Digital Marketing Executive - Resume.pdf' download='Supriya Sudhir - Digital Marketing Executive - Resume.pdf'>
             <button className='about-btn'>Download CV</button>
             </a>
             &nbsp; &nbsp; &nbsp; &nbsp;
