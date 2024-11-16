@@ -43,7 +43,6 @@ const Footer = () => {
                 <div>
                 <a href='https://wa.me/+971552099764' target='_blank'>
                   <button className='btnnn_shadow'>
-                    
                     <i class='fab fa-whatsapp'></i>
                   </button></a> 
                   &nbsp;
