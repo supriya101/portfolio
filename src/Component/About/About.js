@@ -44,7 +44,7 @@ const About = () => {
             </a>
             &nbsp; &nbsp; &nbsp; &nbsp;
 
-            <a href='Supriya Sudhir Portfolio.pdf' download='Supriya Sudhir Portfolio.pdf'>
+            <a href='Supriya B Sudhir Portfolio.pdf' download='Supriya B Sudhir Portfolio.pdf'>
             <button className='about-btn'>Download Portfolio</button>
             </a>
             </div>
