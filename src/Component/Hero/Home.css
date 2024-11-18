@@ -94,11 +94,12 @@
   }
 
   /* Mobile Devices */
-  @media only screen and (min-width: 320px) and (max-width: 480px) {
+  @media (max-width: 320px){
     
     .hero .right_img img {
         width: 100%;
         right: 24px !important;
+        margin-top: 30px !important;
       }
     
       .hero h2 {
@@ -109,12 +110,31 @@
       }
      
   }
+ /* Mobile Devices */
+ @media (max-width: 480px) {
+    
+  .hero .right_img img {
+      width: 100%;
+      right: 24px !important;
+      margin-top: -70px;
+    }
+  
+    .hero h2 {
+      font-size: 40px;
+    }
+    .hero .right_img {
+      width: 91%;
+    }
+   
+}
+
 /* Tablet */
   @media (max-width: 768px) {
     .hero .right,
     .hero .left {
       width: 100%;
       margin-left: 20px;
+
     }
   
     .hero .f_flex {
